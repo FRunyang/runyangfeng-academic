@@ -38,11 +38,11 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-
+url_pdf: 'https://oar.a-star.edu.sg/storage/p/pr3pxqzwmg/glpose-v2.pdf'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 

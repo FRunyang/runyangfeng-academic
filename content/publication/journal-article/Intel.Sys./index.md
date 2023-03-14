@@ -37,12 +37,12 @@ featured: false
 # - name: ""
 #   url: ""
 
-url_pdf: './journal.pdf'
+#url_pdf: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22817'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
