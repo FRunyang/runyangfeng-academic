@@ -26,6 +26,7 @@ sections:
   - block: collection
     content:
       title: Publications
+      id: publication
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
