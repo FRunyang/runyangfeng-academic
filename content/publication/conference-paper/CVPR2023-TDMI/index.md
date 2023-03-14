@@ -59,7 +59,7 @@ url_video: 'https://www.bilibili.com/video/BV1WL411k7H2/?vd_source=a84d804ab6c69
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
