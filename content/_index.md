@@ -24,6 +24,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    id: publication
     content:
       title: Publications
       text: |-
@@ -35,6 +36,6 @@ sections:
           - publication
         exclude_featured: false
     design:
-      columns: '2'
+      columns: '1'
       view: citation
 ---
