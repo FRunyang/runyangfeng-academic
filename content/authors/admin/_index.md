@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Runyang Feng 封润洋
+title: Runyang Feng (封润洋)
 
 # Full name (for SEO)
 first_name: Runyang
