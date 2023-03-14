@@ -38,10 +38,9 @@ abstract: Multi-frame human pose estimation has long been a compelling and funda
 
 To tackle these problems, we present a novel hierarchical alignment framework, which leverages coarse-to-ﬁne deformations to progressively update a neighboring frame to align with the current frame at the feature level. We further propose to explicitly supervise the knowledge extraction from neighboring frames, guaranteeing that useful complementary cues are extracted. To achieve this goal, we theoretically analyzed the mutual information between the frames and arrived at a loss that maximizes the taskrelevant mutual information. These allow us to rank No.1 in the Multi-frame Person Pose Estimation Challenge on benchmark dataset PoseTrack2017, and obtain state-of-the-art performance on benchmarks Sub-JHMDB and PoseTrack2018. Our code is released at https://github.com/Pose-Group/FAMI-Pose, hoping that it will be useful to the community.
 
-# Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna 
+ 
 
-tags: [ORAL]
+tags: ['ORAL']
 
 # Display this page in the Featured widget?
 featured: true
