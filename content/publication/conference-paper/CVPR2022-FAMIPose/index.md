@@ -15,7 +15,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 
+  - ''
   - 'Corresponding Author'
 
 date: '2022-06-23T00:00:00Z'
