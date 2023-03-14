@@ -37,7 +37,7 @@ featured: false
 # - name: ""
 #   url: ""
 
-url_pdf: 'journal.pdf'
+url_pdf: './journal.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
