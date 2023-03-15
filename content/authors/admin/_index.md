@@ -14,7 +14,7 @@ last_name: Feng
 superuser: true
 
 # Role/position/tagline
-role: PhD Student of Computer Vision
+role: PhD Student of Computer Science and Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,7 +22,7 @@ organizations:
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Runyang Feng is currently a PhD student in School of Artificial Intelligence Jilin University. His research interests include Human Pose Estimation (2D), Computer Vision, and Deep Learning.
+bio: Runyang Feng is currently a PhD student in School of Artificial Intelligence Jilin University. His research interests include Human Pose Estimation (2D), Video Understanding, Computer Vision, and Deep Learning.
 
 # Interests to show in About widget
 interests:
@@ -76,5 +76,5 @@ highlight_name: true
 
 
 
-Runyang Feng is currently a PhD student in School of Artificial Intelligence Jilin University. His research interests include Human Pose Estimation (2D), Computer Vision, and Deep Learning.
+Runyang Feng is currently a PhD student in School of Artificial Intelligence Jilin University. His research interests include Human Pose Estimation (2D), Video Understanding, Computer Vision, and Deep Learning.
 {style="text-align: justify;"}
